@@ -1,0 +1,30 @@
+{
+  "total_samples": 68534,
+  "sentiment_distribution": {
+    "Negative": 20944,
+    "Positive": 18730,
+    "Neutral": 16777,
+    "Irrelevant": 12083
+  },
+  "num_entities": 32,
+  "top_entities": {
+    "MaddenNFL": 2240,
+    "NBA2K": 2234,
+    "Verizon": 2232,
+    "CallOfDuty": 2229,
+    "Facebook": 2209,
+    "Microsoft": 2204,
+    "TomClancysRainbowSix": 2195,
+    "johnson&johnson": 2193,
+    "TomClancysGhostRecon": 2177,
+    "WorldOfCraft": 2170
+  },
+  "text_length_stats": {
+    "mean": 122.4336387778329,
+    "median": 105.0,
+    "std": 75.7264417259008,
+    "min": 8,
+    "max": 978
+  },
+  "class_imbalance_ratio": 1.7333443681204999
+}
